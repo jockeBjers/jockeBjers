@@ -25,7 +25,7 @@ website that shows weather forecasts using openweather API
 [![Flutter Project](https://img.shields.io/badge/insulation_app-%2302569B.svg?style=for-the-badge)](https://github.com/jockeBjers/insulation_app) <br>
 A mobile app to calculate and summarize insulation needed for ventilation pipes
 
-[![Portfolio](https://img.shields.io/badge/jb_portfolio-%23FFD700.svg?style=for-the-badge)](https://github.com/jockeBjers) <br>
+[![Portfolio](https://img.shields.io/badge/jb_portfolio-%23FFD700.svg?style=for-the-badge)](https://github.com/jockeBjers/JB-portfolio) <br>
 A little personal website
 
 ## Languages and tools

@@ -11,11 +11,12 @@
 
 ## About Me  
  Working on becoming a system developer
+ 
  Besides coding I also enjoy cooking and travelling
 
 ## Current Project
 
-[![Flutter Project](https://img.shields.io/badge/IsolKalkyl-%2302569B.svg?style=for-the-badge)](https://isolkalkyl.web.app) <br>
+[![IsolkalkylApi](https://img.shields.io/badge/IsolKalkylAPI-%2342b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://isolkalkyl.web.app) <br>
 
 A project I started to try out Flutter, The app calculates insulation needed for ventilation pipes which can be stored within a project within your organization. 
 
@@ -28,6 +29,7 @@ A project I started to try out Flutter, The app calculates insulation needed for
 <details> <summary> <strong> Other Projects </strong></summary>
     
   <br>
+
 
 [![IsolkalkylApi](https://img.shields.io/badge/IsolKalkylAPI-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/jockeBjers/isolApi) <br>
 As the project above is using Firebase for auth and db, this project is building out the backend with db and auth with .net.

@@ -4,13 +4,13 @@
 { 
   "firstName": "Joakim",
   "lastName": "Bjerselius",
-  "age": 33,
+  "age": 34,
   "nationality": "Sweden"
 }
 ```
 
 ## About Me  
- Working on becoming a .NET Developer  
+ Working on becoming a system developer
  Besides coding I also enjoy cooking and travelling
 
 ## Current Project
@@ -28,9 +28,12 @@ A project I started to try out Flutter, The app calculates insulation needed for
 <details> <summary> <strong> Other Projects </strong></summary>
     
   <br>
-    
-[![DumplingDb](https://img.shields.io/badge/DumplingsDb-%2300843e.svg?style=for-the-badge)](https://github.com/jockeBjers/DumplingsDb)<br>
-A small project to practice EFcore, linq, and APIs
+
+[![IsolkalkylApi](https://img.shields.io/badge/IsolKalkylAPI-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/jockeBjers/isolApi) <br>
+As the project above is using Firebase for auth and db, this project is building out the backend with db and auth with .net.
+
+[![Curly](https://img.shields.io/badge/Curly-%2302569B.svg?style=for-the-badge)](https://github.com/jockeBjers/Curly) <br>
+A simple HTTP client desktop app built with Flutter for quickly testing REST APIs. 
 
 [![TempCheck](https://img.shields.io/badge/TempCheck-%23E34F26.svg?style=for-the-badge)](https://github.com/Mortal-Weather/TempCheck)   [![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=github)](https://mortal-weather.github.io/TempCheck/) <br>
 website that shows weather forecasts using openweather API

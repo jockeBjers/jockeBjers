@@ -16,7 +16,7 @@
 
 ## Current Project
 
-[![IsolkalkylApi](https://img.shields.io/badge/IsolKalkylAPI-%2342b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://isolkalkyl.web.app) <br>
+[![Isolkalkyl](https://img.shields.io/badge/IsolKalkyl-%2342b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://isolkalkyl.web.app) <br>
 
 A project I started to try out Flutter, The app calculates insulation needed for ventilation pipes which can be stored within a project within your organization. 
 

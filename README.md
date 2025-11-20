@@ -30,6 +30,12 @@ A project I started to try out Flutter, The app calculates insulation needed for
     
   <br>
 
+  
+[![JB-liftuthyrning](https://img.shields.io/badge/JB--liftuthyrning-%23C94524.svg?style=for-the-badge)](https://github.com/jockeBjers/jb-liftuthyrning)  
+A simple project for managing rental lifts in a fictional company.
+
+[![SMAK](https://img.shields.io/badge/SMÅK-%233178C6.svg?style=for-the-badge)](https://github.com/jockeBjers/smak-hitchhiking)  
+Group Project. An app for hitchhiking through Sweden. PWA built with React + TypeScript
 
 [![IsolkalkylApi](https://img.shields.io/badge/IsolKalkylAPI-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/jockeBjers/isolApi) <br>
 As the project above is using Firebase for auth and db, this project is building out the backend with db and auth with .net.
